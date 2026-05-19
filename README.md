@@ -16,9 +16,11 @@ This repository contains a Postman collection created to test a Hotel Reservatio
 
 ## 🔍 What is Tested
 
-- Creating hotel reservations
-- Viewing reservation details
-- Basic API request flow
+• Create reservation requests
+• Retrieve reservation details
+• API request and response validation
+• Status code validation
+• Basic request flow testing
 
 ---
 
