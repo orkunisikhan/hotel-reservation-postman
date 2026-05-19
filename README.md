@@ -41,4 +41,4 @@ The goal of this project is to improve API testing and QA skills by testing rese
 
 ---
 
-This project was created to practice API testing and improve QA / Manual Testing skills.
+This project was created to strengthen API testing, Postman, and Manual QA skills.
